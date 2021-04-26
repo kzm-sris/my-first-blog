@@ -25,7 +25,7 @@ SECRET_KEY = 'of+w^r4w0-kk^f+5)n^5fx+=)$f$=5agn-*8gdt1g1y#6xpox7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','odyssey.pythonanywhere.com']
 
 
 # Application definition
